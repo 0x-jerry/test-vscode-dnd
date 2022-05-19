@@ -1,0 +1,27 @@
+lockfileVersion: 5.4
+
+specifiers:
+  '@types/node': ^12.12.0
+  '@types/vscode': ^1.67.0
+  typescript: ^4.4.3
+
+devDependencies:
+  '@types/node': 12.20.38
+  '@types/vscode': 1.67.0
+  typescript: 4.5.4
+
+packages:
+
+  /@types/node/12.20.38:
+    resolution: {integrity: sha512-NxmtBRGipjx1B225OeMdI+CQmLbYqvvmYbukDTJGDgzIDgPQ1EcjGmYxGhOk5hTBqeB558S6RgHSpq2iiqifAQ==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npm.taobao.org/@types/node/download/@types/node-12.20.38.tgz}
+    dev: true
+
+  /@types/vscode/1.67.0:
+    resolution: {integrity: sha512-GH8BDf8cw9AC9080uneJfulhSa7KHSMI2s/CyKePXoGNos9J486w2V4YKoeNUqIEkW4hKoEAWp6/cXTwyGj47g==}
+    dev: true
+
+  /typescript/4.5.4:
+    resolution: {integrity: sha512-VgYs2A2QIRuGphtzFV7aQJduJ2gyfTljngLzjpfW9FoYZF6xuw1W0vW9ghCKLfcWrCFxK81CSGRAvS1pn4fIUg==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npm.taobao.org/typescript/download/typescript-4.5.4.tgz}
+    engines: {node: '>=4.2.0'}
+    hasBin: true
+    dev: true
