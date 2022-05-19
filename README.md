@@ -11,3 +11,7 @@ Reproduce step:
 
 
 FYI, sometimes, it can drag an item and drop it to an empty tree view, but I didn't change any code.
+
+
+https://user-images.githubusercontent.com/14226737/169193535-30448907-6145-4ee2-8815-21d32af2d7d5.mp4
+
